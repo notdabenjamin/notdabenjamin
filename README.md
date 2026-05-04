@@ -5,6 +5,8 @@ I am a young bisexual, kitty-loving, developer, gamer, and goober.
 
 Creator of Gamebird, the Velocity Coding Language, and a bunch of other silly projects!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L01YX5RD)
+
 ### Interests:
 🖱️Coding  
 🎮Gaming  
