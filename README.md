@@ -23,8 +23,8 @@ Creator of Gamebird, the Velocity Coding Language, and a bunch of other silly pr
 🌲Linktr.ee: https://linktr.ee/NotDaBenjamin
 
 ### Organizations:
-💿LearnVelocity/Velocity: https://github.com/LearnVelocity
-🕊️NDBGamebird/Gamebird: https://github.com/NDBGamebird
+💿LearnVelocity/Velocity: https://github.com/LearnVelocity  
+🕊️NDBGamebird/Gamebird: https://github.com/NDBGamebird  
 
 ### Extras:
 🛝All hobby projects, or projects I do in my free time away from work can be found here: https://github.com/SELTDSELT
