@@ -28,3 +28,6 @@ Creator of Gamebird, the Velocity Coding Language, and a bunch of other silly pr
 
 ### Extras:
 🛝All hobby projects, or projects I do in my free time away from work can be found here: https://github.com/SELTDSELT
+
+© 2026 Super Evil Laboratory That Does Super Evil Laboratory Things
+
