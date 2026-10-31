@@ -15,7 +15,7 @@ Creator of Gamebird, the Velocity Coding Language, and a bunch of other silly pr
 🔴Streaming (Follow me: https://www.twitch.tv/notdabenjamin)  
 
 ### Links:
-🌐Personal Website: https://notdabenjamin.neocities.org  
+🌐Personal Website: https://notdabenjamin.xyz
 😺Github: https://github.com/notdabenjamin  
 ☁️TryHackMe: https://tryhackme.com/p/NotDaBenjamin  
 📡Contact: https://notdabenjamin.neocities.org/contact  
